@@ -1,0 +1,74 @@
+#nav {
+    width: 15%;
+    height: 850px;
+    /*   border:1px solid #000; */
+    float: left;
+  }
+  
+  #wiki {
+    width: 150px;
+    padding-left: 35px;
+  }
+  #lhc {
+    width: 120px;
+  }
+  
+  ul a {
+    list-style: none;
+    text-decoration: none;
+    color: blue;
+  }
+  
+  ul li {
+    padding-top: 4px;
+    padding-left: 15px;
+  }
+  
+  ul a:hover {
+    text-decoration: underline;
+  }
+  
+  #topic {
+    padding: 10px;
+    width: 83%;
+    height: 850px;
+    /*   border:1px solid turquoise; */
+    float: left;
+  }
+  
+  .navline {
+    width: 120px;
+    margin: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  
+  #content-box {
+    width: 300px;
+    height: 220px;
+    background-color: #eee;
+    border: 1px solid #000;
+    float: left;
+  }
+  
+  #content-box h2 {
+    text-align: center;
+  }
+  
+  #content-box2 {
+    list-style: none;
+    text-decoration: none;
+  
+    width: 200px;
+    height: 320px;
+    background-color: #eee;
+    border: 1px solid #000;
+    float: right;
+    text-align: center;
+    padding-right: 25px;
+  }
+  
+  #accelerator {
+    clear: both;
+  }
+  
